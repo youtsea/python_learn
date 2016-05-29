@@ -1,4 +1,3 @@
-#coding=utf-8
 
 p = (4, 5)
 x, y = p
@@ -21,7 +20,7 @@ print day
 
 s = 'hello'
 a, b, c, d, e = s
-print a,b,c,d,e
+print a, b, c, d, e
 
 _, shares, price, _ = data
 print shares

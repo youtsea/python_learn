@@ -8,7 +8,8 @@ d['grok'] = 4
 print d
 
 for key in d:
-	print(key, d[key])
+    print(key, d[key])
 
 import json
+
 print json.dumps(d)

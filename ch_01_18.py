@@ -23,6 +23,7 @@ def compute_cost(records):
         total += s.shares + s.price
     return total
 
+
 s = [Stock('ACME', 100, 123.45), Stock('ACME', 100, 123.45)]
 print compute_cost(s)
 
