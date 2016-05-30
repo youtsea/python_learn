@@ -2,7 +2,7 @@
 
 Python_Cookbook(3rd) 读书笔记
 
-## Chapter01
+## Chapter01 数据结构和算法
 
 **ch_01_01.py** ：将元组或列表中的元素赋值给多个变量<br>
 **ch_01_02.py** ：使用星号复制多个元素给一个变量<br>
@@ -24,7 +24,7 @@ Python_Cookbook(3rd) 读书笔记
 **ch_01_18.py** ：序列元素的命名访问<br>
 **ch_01_19.py** ：改变数据并使用数据执行reduction函数<br>
 
-## Chapter02
+## Chapter02 字符串和文本
 
 **ch_02_01.py** ：使用正则表达式分隔字符串(需要跳转到正则表达式的学习)<br>
 **ch_02_02.py** ：匹配文本的头部或尾部<br>
@@ -47,7 +47,7 @@ Python_Cookbook(3rd) 读书笔记
 **ch_02_19.py** ：这章节和编译原理有关系，代码暂缺，状态好的时候再补<br>
 **ch_02_20.py** ：byte字符串相关操作<br>
 
-## Chapter03
+## Chapter03 数字、日期和时间
 
 **ch_03_01.py** ：数字四舍五入<br>
 **ch_03_02.py** ：精确数字运算<br>
@@ -66,7 +66,7 @@ Python_Cookbook(3rd) 读书笔记
 **ch_03_15.py** ：将字符串类型转换为时间类型<br>
 **ch_03_16.py** ：时区相关操作<br>
 
-## Chapter04
+## Chapter04 迭代器和生成器
 
 **ch_04_01.py** ：迭代器的使用<br>
 **ch_04_02.py** ：类迭代器<br>
@@ -85,7 +85,7 @@ Python_Cookbook(3rd) 读书笔记
 **ch_04_15.py** ：合并已排序的序列<br>
 **ch_04_16.py** ：使用迭代器替换while循环<br>
 
-## Chapter05
+## Chapter05 文件和I/O
 
 **ch_05_01.py** ：文件读写<br>
 **ch_05_02.py** ：使用print写入文件，python3特性，代码暂缺<br>
